@@ -42,7 +42,7 @@ START_IMG = "https://files.catbox.moe/oaxs1q.jpg"
 # Messages
 START_MSG = os.environ.get(
     "START_MESSAGE",
-    "<b>ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ ᴀᴅᴠᴀɴᴄᴇᴅ ʟɪɴᴋs sʜᴀʀɪɴɢ ʙᴏᴛ. ᴡɪᴛʜ ᴛʜɪs ʙᴏᴛ, ʏᴏᴜ ᴄᴀɴ sʜᴀʀᴇ ʟɪɴᴋs ᴀɴᴅ ᴋᴇᴇᴘ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟs sᴀғᴇ ғʀᴏᴍ ᴄᴏᴘʏʀɪɢʜᴛ ɪssᴜᴇs.\n\n<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/aniweb_bots'>AɴɪWᴇʙ Bᴏᴛs</a></blockquote></b>"
+    "<b>ᴀᴅᴠᴀɴᴄᴇᴅ ʟɪɴᴋ sʜᴀʀɪɴɢ ʙᴏᴛ ғᴏʀ sᴇᴄᴜʀᴇ ʟɪɴᴋs ᴀɴᴅ ᴄᴏᴘʏʀɪɢʜᴛ-sᴀғᴇ ᴄʜᴀɴɴᴇʟs..\n\n<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/aniweb_bots'>AɴɪWᴇʙ Bᴏᴛs</a></blockquote></b>"
 )
 
 HELP = os.environ.get(

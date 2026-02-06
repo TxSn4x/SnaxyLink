@@ -44,7 +44,7 @@ if user_id in user_banned_until:
           
 await add_user(user_id)
 
-✅ Check Force Subscription
+#✅ Check Force Subscription
 
 #if not await is_subscribed(client, user_id):  
     #await temp.delete()  
